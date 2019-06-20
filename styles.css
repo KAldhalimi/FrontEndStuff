@@ -1,0 +1,159 @@
+#navBar{
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    display: block;
+    background: rgb(0, 0, 0);
+    white-space: nowrap;
+    color: #fff;
+    
+}
+.index{
+   margin:20px; 
+   white-space: nowrap;
+   color: #fff;
+}
+.trex{
+    width: 4.5in;
+    height: 5in;
+    z-index: -1;
+    
+}
+ul li {
+    background: #ffe5e5;
+    padding: 5px;
+    margin-left: 35px;
+  }
+  ul {
+    background: #ff9999;
+    padding: 20px;
+  }
+  
+    
+   
+
+
+
+h1{
+    font-size: .7in;
+    text-align: center;
+    background: red; 
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet); 
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); 
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); 
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    color: rgb(255, 255, 255);
+}
+
+#aboutus{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: .3in;
+    width: 100%;
+    height:100%;
+    
+}
+#Ourmission{
+    font-size: .5in;
+    text-align: left;
+    width: 100%;
+    height:100%;
+    
+    
+    
+}
+.dog{
+    color: blue;
+    
+    
+
+    
+}
+.bird{
+    color: blue
+
+    
+}
+.bigfoot{
+    color: blue
+
+    
+}
+
+
+h2{
+    color:darkblue
+ }
+ 
+body{
+    background-color:rgb(219, 214, 228);
+    
+    width: 100%;
+    height:100%;
+    
+
+
+}
+#HTMLWebsite{
+        padding-top: 0.5%;
+        width: 1400px;
+        
+
+    }
+    p{
+        width: 2200px;
+    }
+.pic{
+    width: 1650px;
+    height: 750px;
+    border: 50px;
+    margin:50px;
+    
+}
+.container {
+    position: relative;
+  }
+  
+  .center {
+    position: absolute;
+    left: 100%;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 100px;
+  }
+  
+  img { 
+    width: 40%;
+    height: auto;
+    margin:50px;
+    border-image: center;
+    
+   
+  }
+/*img{
+    width: 4.5in;
+    height: 5in;
+    border-image: center;
+}*/
+#myFavAnimals{
+    text-align: right;
+    font-size: 2in
+}
+.animals li{
+    font-size:50px;
+    
+    
+    
+    }
+.food li   {
+    font-size: 50px;
+} 
+
+iframe{
+    width: 500px;
+    height: 400px;
+}
+footer{
+    padding-top:1%;
+}
